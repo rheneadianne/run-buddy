@@ -14,6 +14,10 @@ body {
     /*comment!*/
 }
 
+section {
+    padding:60px;
+}
+
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -61,4 +65,52 @@ footer div {
 
 footer a {
     color:#024e76;
+}
+
+.hero {
+    background: url("../images/hero-bg.jpg") no-repeat center;
+    background-size:cover;
+    height:600px;
+    position: relative;
+}
+
+.hero-form {
+    background: #fce138;
+    padding: 20px;
+    width: 500px;
+    color:#024e76;
+    border: 3px solid #024e76;
+    position:absolute;
+    bottom: 120px;
+    right: 140px;
+}
+
+.hero-form h3 {
+    font-size:24px;
+    margin:0px;
+}
+
+.hero-form p {
+    margin: 5px 0 15px 0;
+}
+
+.form-input {
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color:#024e76;
+    width: 100%;
+    margin: 0 0 15px 0;
+}
+
+.hero-form {
+    margin: 0 5px;
+}
+
+.hero-form button{
+    color:#fce138;
+    border: none;
+    background: #024e76;
+    padding: 10px 20px;
 }
