@@ -1,4 +1,4 @@
-# Run Buddy, Inc
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers fitness training services. 
@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://rheneadianne.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Dianne Espeleta
 
 ### ©️2019 Run Buddy, Inc 
