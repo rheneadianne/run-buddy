@@ -30,7 +30,7 @@ header {
   position:sticky;
   position: -webkit-sticky;
   top:0;
-  background: url("/assets/images/flipped-hero-image.jpg");
+  background-image: url("/assets/images/flipped-hero-image.jpg");
   background-size: cover;
   background-position:center;
   background-attachment: fixed;
